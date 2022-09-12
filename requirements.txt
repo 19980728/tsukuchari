@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib.pyplot
+japanize_matplotlib
+seaborn
+datetime
