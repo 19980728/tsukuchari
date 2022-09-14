@@ -1,6 +1,6 @@
 streamlit
 pandas
-matplotlib.pyplot
+matplotlib
 japanize_matplotlib
 seaborn
 datetime
